@@ -1,1 +1,1 @@
-F
+print('lol')
